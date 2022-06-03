@@ -1,0 +1,4 @@
+project: PROJECT
+target: mol_data_stream_to_mol_fuzzer
+cmds:
+- cmd: /out/mol_data_stream_to_mol_fuzzer
